@@ -1,0 +1,27 @@
+/* @font-face {
+    font-family: 'FZFYSJW';
+    src: url('fonts/FZFYSJW.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PingFangSC-Medium';
+    src: url('fonts/fzltxhjt.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PingFangSC-Regular';
+    src: url('fonts/fzltxhjt.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PingFangSC-Semibold';
+    src: url('fonts/fzltxhjt.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+} */
+body{
+    font-family: PingFangSC-Regular, PingFangSC-Medium, PingFangSC-Semibold, "Microsoft YaHei", "微软雅黑", sans-serif;
+}
